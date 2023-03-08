@@ -1,7 +1,7 @@
 # scripts
 Este repositorio contiene varios scripts escritos en Python (version 3.9.10) para diferentes propósitos. 
 
-#### [DescargarMusica:](http://google.com "DescargarMusica")
+#### [DescargarMusica:](https://github.com/lauramesa/scripts_python/tree/master/descargarMusica)
 permite descargar música desde YouTube en formato MP3.
 **requisitos:**
 - **"pytube"** para descargar el video de YouTube. `pip install pytube`
